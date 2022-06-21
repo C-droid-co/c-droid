@@ -2,4 +2,4 @@ echo """
            
                @cdroidbot                     
 """
-python3 -m cdroidbot
+python3 -m userbot
