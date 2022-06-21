@@ -1,1 +1,1 @@
-worker: python -m c-droid
+userbot: python -m userbot
